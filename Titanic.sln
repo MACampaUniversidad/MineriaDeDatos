@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Titanic", "Titanic\Titanic.pyproj", "{AB55F961-C8D5-4B0F-92EB-9BE060045857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB55F961-C8D5-4B0F-92EB-9BE060045857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB55F961-C8D5-4B0F-92EB-9BE060045857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78BAD941-0840-4A4A-9C90-B872712398E7}
+	EndGlobalSection
+EndGlobal
